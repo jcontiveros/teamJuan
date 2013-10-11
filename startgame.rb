@@ -1,1 +1,1 @@
-puts "Juan and Jimmy are awesome!"
+puts "Juan and Jimmy are awesome!,but jimmy is too good"
