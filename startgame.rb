@@ -1,3 +1,1 @@
-puts "_|_|_"
-puts "_|_|_"
-puts " | |"
+puts "Juan and Jimmy are awesome!"
